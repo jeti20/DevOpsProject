@@ -1,4 +1,4 @@
-![image](https://github.com/jeti20/DevOpsProject/assets/61649661/28ba9c6e-ec49-44af-90a0-c7c2e2920c20)# DevOpsProject
+# DevOpsProject
 Architcture: 
 ![image](https://github.com/jeti20/DevOpsProject/assets/61649661/5b4c0690-6251-4d87-9ca6-712c2087c049)
 
